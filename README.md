@@ -8,11 +8,10 @@ A small macOS menu bar subscription tracker. Click the credit card icon to see u
 - Add and edit subscriptions from Settings
 - Light, dark, and system appearance
 - Optional Start at Login
-- Recurring due-date rollover by billing cycle
+- Recurring due date rollover by billing cycle
 - Optional macOS notification at 9:00 AM the day before each active subscription is due
 - Background version check against the latest public GitHub release, with a link to download it
 - Local data storage; no account or bank connection
-- PKR, MYR, and a broad set of other currencies
 
 ## Updates
 
